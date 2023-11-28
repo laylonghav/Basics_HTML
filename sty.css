@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+}
+.rect {
+  width: 400px;
+  height: 200px;
+  background-color: aquamarine;
+  border: 3px solid rgb(0, 104, 223);
+  float: right;
+}
+
+.sty01 {
+  width: 400px;
+  height: 200px;
+  background-color: aquamarine;
+  border: 3px solid rgb(0, 104, 223);
+  float: left;
+}
+.sty02 {
+  width: 400px;
+  height: 400px;
+  background-color: aquamarine;
+  border: 3px solid rgb(0, 104, 223);
+  border-radius: 100%;
+  float: center;
+}
